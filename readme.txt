@@ -1,0 +1,1 @@
+This app can help manager of the toy shop, to manage the data. It makes the process much easier because program has a very comfortable graphical design.
